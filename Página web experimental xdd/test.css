@@ -1,0 +1,27 @@
+body{
+    background-color:lightblue;
+    text-align: center;
+}
+.logo{
+    text-align: center;
+    width: 250px;
+    height: 60px;
+}
+.tit{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #ff0011b7;
+}
+.t1{
+    font-size: 30px;
+    color: #490808;
+    
+}
+.t2{
+    font-size: 25px;
+    color: #490808;
+}
+form{
+    font-size: 23px;
+    color: #010033;
+}
