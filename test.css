@@ -34,3 +34,9 @@ form{
     font-size: 23px;
     color: #010033;
 }
+input{
+    font-size:20px;
+    color:#000a6b;
+    background-color:#dfdfdf;
+    border-color:#000a6b;
+}
