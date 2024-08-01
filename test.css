@@ -9,21 +9,21 @@ body{
 }
 .tit{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     color: #ff0011b7;
 }
 .t1{
-    font-size: 35px;
+    font-size: 30px;
     color: #490808;
     
 }
 .t2{
-    font-size: 30px;
+    font-size: 25px;
     color: #490808;
 }
 .t3{
     color:#0d169d
-    font-size:25px;
+    font-size:20px;
 }
 .im{
     text-align:center;
