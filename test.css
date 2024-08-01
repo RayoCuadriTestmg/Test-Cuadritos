@@ -25,6 +25,11 @@ body{
     color:#0d169d
     font-size:25px;
 }
+.im{
+    text-align:center;
+    width:400px;
+    height:200px;
+}
 form{
     font-size: 23px;
     color: #010033;
